@@ -6,7 +6,7 @@
 
 @font-face {
     font-family: 'Arkhip';
-    src: url('/fonts/Arkhip_font.ttf');
+    src: url('../fonts/Arkhip_font.ttf');
 }
 
 body {
