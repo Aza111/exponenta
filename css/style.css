@@ -36,7 +36,7 @@ body{
 	--color-menu: #ffffff;
 	--color-menu-hover: #000000;
 	--font-family-menu: var(--font-family-title);
-	--font-size-menu: 3.5vmax;
+	--font-size-menu: 5vmax;
 	--font-weight-menu: 400;
 	--button-line: #ffffff;
 }
