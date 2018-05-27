@@ -10,7 +10,7 @@
 }
 
 body {
-	font-family:  "Raleway", 'Source Sans Pro', Avenir, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-family: "Raleway", 'Source Sans Pro', Avenir, 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	color: #57585c;
 	color: var(--color-text);	
 	background-color: #fff;
@@ -32,7 +32,7 @@ body{
 	--path-fill-1: url(#gradient1);
 	--path-fill-2: url(#gradient2);
 	--path-fill-3: url(#gradient3);
-	--font-family-title: 'Raleway', serif;
+	--font-family-title: 'Arkhip', serif;
 	--color-menu: #ffffff;
 	--color-menu-hover: #000000;
 	--font-family-menu: var(--font-family-title);
